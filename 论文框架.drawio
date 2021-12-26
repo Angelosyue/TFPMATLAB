@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-12-26T01:50:04.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.20 Safari/537.36" version="16.1.0" etag="9I-E-F2HrsgI26QsdhK2" type="github"><diagram id="y1vsieXEFpHyUzH6G-fZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-26T02:07:38.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.20 Safari/537.36" etag="moYuRc_1ory-IckRGah9" version="16.1.0" type="github">
+  <diagram id="y1vsieXEFpHyUzH6G-fZ" name="Page-1">
+    <mxGraphModel dx="788" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xets7mDfq6JAqSSpqzzq-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;研究思路&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196" y="80" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;endArrow=none;endFill=0;" edge="1" parent="1" source="xets7mDfq6JAqSSpqzzq-2" target="xets7mDfq6JAqSSpqzzq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-2" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;主要内容&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-3" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;是研究方向&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="626" y="80" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-8" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;研究思路&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;html=1;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;labelBorderColor=none;fontFamily=Comic Sans MS;spacingTop=0;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="236.5" y="150" width="43.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-9" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;分析问题&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="236.5" y="280" width="43.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-12" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;实证应用&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="236.5" y="540" width="43.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-13" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;解决问题&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="236.5" y="410" width="43.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;endArrow=none;endFill=0;" edge="1" parent="1" source="xets7mDfq6JAqSSpqzzq-14" target="xets7mDfq6JAqSSpqzzq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-14" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;研究背景与研究意义&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;endArrow=none;endFill=0;" edge="1" parent="1" source="xets7mDfq6JAqSSpqzzq-15" target="xets7mDfq6JAqSSpqzzq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-15" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;国内外研究现状&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-16" value="县域农村创业能力相关理论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="245" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-20" value="相关概念" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="308" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-21" value="相关概念" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="308" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-22" value="相关概念" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="308" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-23" value="县域农村创业能力评价指标体系的构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="416" y="380" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-25" value="初选指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="446" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-26" value="筛选指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="446" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xets7mDfq6JAqSSpqzzq-27" value="确定指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="446" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
